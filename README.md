@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+LIKE THIS IS GIT PROJECT AND IT HELPS YOU UNDERSTAND THE SITUATION OF THE SITUATION.
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
