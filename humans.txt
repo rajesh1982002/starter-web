@@ -21,7 +21,6 @@ And there yu fo thats allt hfile ii have lol
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS5, ANGULAR, NODEJS 
-<<<<<<< HEAD
     MACHINE LEARNING< DEEP LEARHONG EDITORSORIAL SOFTWARE
 #
 
