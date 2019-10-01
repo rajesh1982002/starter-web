@@ -1,3 +1,5 @@
+
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
@@ -6,6 +8,8 @@
 
 
 rajesh.dhakal@1986@gmail.com
+DEVOPS ENGINNER 
+fattysteak@mcdonalds.com
 Manager at the IIT solutions 
     <name> Rajesh Dhakal  <twitter>
 
@@ -17,7 +21,7 @@ And there yu fo thats allt hfile ii have lol
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS5, ANGULAR, NODEJS 
-    MACHINE LEARNING< DEEP LEARHONG EDITORSORIAL SOFTWAREs
-
+<<<<<<< HEAD
+    MACHINE LEARNING< DEEP LEARHONG EDITORSORIAL SOFTWARE
 #
 
