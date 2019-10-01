@@ -6,6 +6,8 @@
 
 
 rajesh.dhakal@1986@gmail.com
+DEVOPS ENGINNER 
+fattysteak@mcdonalds.com
 Manager at the IIT solutions 
     <name> Rajesh Dhakal  <twitter>
 
@@ -18,6 +20,6 @@ And there yu fo thats allt hfile ii have lol
 
     HTML5, CSS5, ANGULAR, NODEJS 
     jQuery, Modernizr, AJAX
-
+	DOCKER, KUBERNETS, AWS, JAVA PROGRAMMING
 #
 
