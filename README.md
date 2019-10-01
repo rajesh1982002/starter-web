@@ -37,3 +37,9 @@ Adding Git Comparisons Lecture
 
 ## GitHub Contents Comparisons and Repo 
 I want to drink sme beer at the moment ? Cna you lend me some beer huh ? yes sir of course I can giveyou ? Whatever it is huh 
+
+
+# Add and delete 
+He who knoew i could add stuffs on yahhoo and hotmail anymore 
+fuck the repo
+
