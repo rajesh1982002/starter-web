@@ -26,3 +26,8 @@ Introdunction
 
 Git Rebsse and staged things like what you need to do , what the funck man / whats foinf on here my friends 
 
+# Use Usied USen Sample Projects and Introfuctions 
+I want to talk to you aout the fuck that you gave me when I never gave you a funch what do you say my friends ?
+
+
+
