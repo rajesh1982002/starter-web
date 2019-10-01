@@ -17,3 +17,12 @@ Adding GIT comparisons lectre
 
 ## GitHub Content
 Comparison with Repos
+
+
+## Tryinf to put some dunny values 
+Starter kids web pack it aint gonna do a thing ,, 
+
+Introdunction 
+
+Git Rebsse and staged things like what you need to do , what the funck man / whats foinf on here my friends 
+
