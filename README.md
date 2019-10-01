@@ -29,5 +29,9 @@ Git Rebsse and staged things like what you need to do , what the funck man / wha
 # Use Usied USen Sample Projects and Introfuctions 
 I want to talk to you aout the fuck that you gave me when I never gave you a funch what do you say my friends ?
 
+# Git Comparisons 
+
+Adding Git Comparisons Lecture 
+
 
 
